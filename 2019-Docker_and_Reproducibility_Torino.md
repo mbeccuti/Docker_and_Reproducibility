@@ -23,8 +23,8 @@ description:
 <br>
 
 ### Important Dates 
-- Deadline for applications: **XX-XX-2019**
-- Course date: **XX-XX Month 2019**
+- Deadline for applications: **31-05-2019**
+- Course date: **13-14 June 2019**
 <br>
 <br>
 
@@ -38,48 +38,43 @@ Via Nizza, 52<br>
 
 
 ### Fee 
-The course does not include a fee, but the participants are expected to pay their own travel, meals and hotel costs (if any).
+The course includes a fee (60 Euros), covering 4 coffee breaks and 2 lunches, participants are expected to pay their own travel and hotel costs (if any).
 
-A maximum of **15** candidates will be selected based on their need for the course and their prerequisities as emerging from the application form. Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes. 
-
-**Cancellation policy:** Attendance is limited to **15** participants. We expect many more applications. Accepted participants commit to attend the course for its whole duration. Failure to attend training sessions is disruptive. Moreover, it blocks other candidates from participating. Therefore a cancellation policy is in place so that only written requests presented 10 days in advance relatively to the course starting date are accepted.
+A maximum of **15** candidates will be selected based on their need for the course and their prerequisites as emerging from the application form. Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes.
 <br>
+
+### Laptop
+Participants will be requested to bring their own laptop, in case of need we can provide a computer to participants.
+The mandatory requirements for the lap top are the presence of an ethernet plug/adapter, and VNC client installation
 
 
 ### Instructors
-- [**Marco Beccuti**] (XXX) - Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT
-- [**Raoul Bonnal**] (XXX) -  Istituto Nazionale Genetica Molecolare "Romeo ed Enrica Invernizzi"​ (INGM), Milano, IT
+- [**Marco Beccuti**]() - Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT
+- [**Raoul Bonnal**](https://elixir-iib-training.github.io/website/instructors/raoul_bonnal.html) -  Istituto Nazionale Genetica Molecolare "Romeo ed Enrica Invernizzi"​ (INGM), Milano, IT
 <br>
 <br>
 
 ### Helpers
-- ...
+- [**Raffaele A. Calogero**](https://elixir-iib-training.github.io/website/instructors/raffaele_calogero.html) - Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT
 <br>
 <br>
 
 ### Organisers
 - [**Raffaele Calogero**](https://elixir-iib-training.github.io/website/instructors/raffaele_calogero.html) - Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT 
 - [**Marco Chiapello**]() - Institute for Sustainable Plant Protection of the National Research Council of Italy (CNR)
-- 
+- [**Marco Beccuti**]() - Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT
 - 
 <br>
-<br>
-
-### IT Technical support (??)
-- 
-- 
 <br>
 
 ### Contact
-For all kinds of queries, please contact the local organiser XXX : <XXX>
-<br>
+For all kinds of queries, please contact the local organiser <raffaele.calogero@unito.it>, at tel: +39 0116706454, cel: +39 3333827080<br>
 <br>
 
 ### Course Description
-Bioinformatics analysis typically integrate a large number of different tools, reference data to elaborate the input data and derive results. Reproducing the same analysis by other researchers is often a hard task as many pieces of the puzzle are missing from the used methodology.
-While the raw datasets are generally available; a clear workflow detailing the results reproducibility is often missing. Indeed, a simple list of tools used in the workflow could be not enough to guarantee the result reproducibility: different releases of the same tools or/and of the system libraries (exploited by such tools) might lead to sneaky reproducibility issues. The biggest obstacle in computational reproducibility is then to create a reliable, standalone, multiplatform and lightweight-working environment in which all the computational needs for a study are installed and frozen. Virtualisation and containerisation are the two approaches proposed to address this issue.
+Bioinformatics analysis typically integrate a large number of different tools, reference data to elaborate the input data and derive results. Reproducing the same analysis by other researchers is often a hard task as many pieces of the puzzle are missing from the used methodology. While the raw datasets are generally available; a clear workflow detailing the results reproducibility is often missing. Indeed, a simple list of tools used in the workflow could be not enough to guarantee the result reproducibility: different releases of the same tools or/and of the system libraries (exploited by such tools) might lead to sneaky reproducibility issues. The biggest obstacle in computational reproducibility is then to create a reliable, standalone, multiplatform and lightweight-working environment in which all the computational needs for a study are installed and frozen. Virtualization and containerization are the two approaches proposed to address this issue.
 
-Virtual machines are very good at isolating system resources and entire working environments, while , containers’ philosophy is to isolate only individual applications, not the entire system. Thus, containers are a lightweight fast and scalable alternative to Virtual machines when an completely isolated execution is not mandatory.
+Virtual machines are very good at isolating system resources and entire working environments, while containers’ philosophy is to isolate only individual applications, not the entire system. Thus, containers are a lightweight fast and scalable alternative to Virtual machines when an completely isolated execution is not mandatory.
 
 Docker is a container framework for Linux that allows a developer to make easier the creation, deployment, and execution of applications by using containers.
 Recently it is becoming a promising approach to computational biology research reproducibility by:<br>
@@ -92,13 +87,13 @@ Recently it is becoming a promising approach to computational biology research r
 
 
 ### Target audience
-This course is aimed at ........
+This course is aimed at provide to bioinformaticians and computer sciences the basic information to assemble docker images and use them.
 <br>
 
 
 ### Course prerequisites
-The participants will need to know ..........
-<br
+The participants will need to have basic shell scripting knowledge and basic experience in a scripting language, e.g. R or Python, or others.
+<br>
 
 ### Learning objectives
 (.........Learning objectives describe the goals and intentions of the instructor who teaches the course. They state the purpose and goals of a session or of the course...)
