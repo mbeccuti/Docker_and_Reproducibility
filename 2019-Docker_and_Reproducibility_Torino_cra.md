@@ -29,7 +29,7 @@ description:
 <br>
 
 ### Venue
-University of Torino<br>
+University of Turin<br>
 Molecular Biotechnology Center<br>
 Via Nizza, 52<br> 
 10126 Torino, Italy<br>
