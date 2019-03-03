@@ -10,13 +10,13 @@ description:
 
 <table border="0">
 <tr>
-	<td><a href="https://elixir-iib-training.github.io/website/"><img src="../img/logo_iib.png" height="110" width="260"></a>
+	<td><a href="https://elixir-iib-training.github.io/website/"><img src="./img/logo_iib.png" height="110" width="230"></a>
 	</td>
 	<td width="20"></td>
-	<td><a href=""><img src="../img/" height="110" width="110"></a>
+	<td><a href=""><img src="./img/Logo_CNR_Italy.png" height="110" width="230"></a>
 	</td>
 	<td width="20"></td>
-	<td><a href=""><img src="../img/" height="110" width="230"></a>
+	<td><a href=""><img src="./img/Logo_INGM_web.jpeg" height="110" width="230"></a>
 	</td>
 </tr>
 </table>
