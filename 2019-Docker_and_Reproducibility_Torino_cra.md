@@ -70,7 +70,7 @@ The mandatory requirements for the laptop are the presence of an ethernet plug/a
 <br>
 
 ### Contact
-For all kinds of queries, please contact the local organiser: <raffaele.calogero@unito.it>, tel: +39 0116706454, cel: +39 3333827080.<br>
+For all kinds of queries, please contact the local organiser **Raffaele Calogero** at: <raffaele.calogero@unito.it>, tel: +39 0116706454, cel: +39 3333827080.<br>
 <br>
 
 ### Course Description
