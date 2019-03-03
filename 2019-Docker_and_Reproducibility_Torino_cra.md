@@ -12,11 +12,14 @@ description:
 <tr>
 	<td><a href="https://elixir-iib-training.github.io/website/"><img src="./img/logo_iib.png" height="110" width="230"></a>
 	</td>
-	<td width="20"></td>
-	<td><a href=""><img src="./img/Logo_CNR_Italy.png" height="110" width="230"></a>
+	</tr>
+		<tr height="20">
+			</tr>
+	<tr>
+	<td><a href=""><img src="./img/Logo_CNR_Italy.png" height="100" width="180"></a>
 	</td>
 	<td width="20"></td>
-	<td><a href=""><img src="./img/Logo_INGM_web.jpeg" height="110" width="230"></a>
+	<td><a href=""><img src="./img/Logo_INGM_web.jpeg" height="100" width="180"></a>
 	</td>
 </tr>
 </table>
