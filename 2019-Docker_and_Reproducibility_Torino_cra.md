@@ -10,13 +10,13 @@ description:
 
 <table border="0">
 <tr>
-	<td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="110" width="260"></a>
+	<td><a href="https://elixir-iib-training.github.io/website/"><img src="../img/logo_iib.png" height="110" width="260"></a>
 	</td>
 	<td width="20"></td>
-	<td><a href=""><img src="" height="110" width="110"></a>
+	<td><a href=""><img src="../img/" height="110" width="110"></a>
 	</td>
 	<td width="20"></td>
-	<td><a href=""><img src="" height="110" width="230"></a>
+	<td><a href=""><img src="../img/" height="110" width="230"></a>
 	</td>
 </tr>
 </table>
@@ -38,14 +38,14 @@ Via Nizza, 52<br>
 
 
 ### Fee 
-The course includes a fee (60 Euros), covering 4 coffee breaks and 2 lunches, participants are expected to pay their own travel and hotel costs (if any).
+The course includes a fee (**60 Euros**), covering 4 coffee breaks and 2 lunches, participants are expected to pay their own travel and hotel costs (if any).
 
 A maximum of **15** candidates will be selected based on their need for the course and their prerequisites as emerging from the application form. Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes.
 <br>
 
 ### Laptop
-Participants will be requested to bring their own laptop, in case of need we can provide a computer to participants.
-The mandatory requirements for the lap top are the presence of an ethernet plug/adapter, and VNC client installation
+Participants will be requested to bring their own laptop; in case of need we can provide a computer to participants.
+The mandatory requirements for the laptop are the presence of an ethernet plug/adapter and VNC client installation.
 
 
 ### Instructors
@@ -68,7 +68,7 @@ The mandatory requirements for the lap top are the presence of an ethernet plug/
 <br>
 
 ### Contact
-For all kinds of queries, please contact the local organiser <raffaele.calogero@unito.it>, at tel: +39 0116706454, cel: +39 3333827080<br>
+For all kinds of queries, please contact the local organiser: <raffaele.calogero@unito.it>, tel: +39 0116706454, cel: +39 3333827080.<br>
 <br>
 
 ### Course Description
@@ -87,12 +87,12 @@ Recently it is becoming a promising approach to computational biology research r
 
 
 ### Target audience
-This course is aimed at provide to bioinformaticians and computer sciences the basic information to assemble docker images and use them.
+This course is aimed at providing to bioinformaticians and computer scientists the basic information to assemble docker images and use them.
 <br>
 
 
 ### Course prerequisites
-The participants will need to have basic shell scripting knowledge and basic experience in a scripting language, e.g. R or Python, or others.
+The participants will need to have basic shell scripting knowledge and basic experience in a scripting language, e.g. R,  Python, or others.
 <br>
 
 ### Learning objectives
