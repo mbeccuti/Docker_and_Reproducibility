@@ -13,7 +13,7 @@ description:
 	<td><a href="https://elixir-iib-training.github.io/website/"><img src="./img/logo_iib.png" height="110" width="230"></a>	
 	</td>
 	<td>
-	<td><a href=""><img src="./img/Logo_CNR_Italy.png" height="100" width="200"></a>
+	<td><a href="http://www.unito.it"><img src="./img/logo_unito.png" height="100" width="200"></a>
 	</td>
 	</td>
 	</tr>
