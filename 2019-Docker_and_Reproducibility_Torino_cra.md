@@ -73,7 +73,6 @@ The mandatory requirements for the laptop are the presence of an ethernet plug/a
 - [**Raffaele Calogero**](https://elixir-iib-training.github.io/website/instructors/raffaele_calogero.html) - Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT 
 - [**Marco Chiapello**]() - Institute for Sustainable Plant Protection of the National Research Council of Italy (CNR)
 - [**Marco Beccuti**]() - Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT
-- 
 <br>
 <br>
 
