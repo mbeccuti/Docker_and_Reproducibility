@@ -1,12 +1,9 @@
----
-layout: post
-title:  ""
-date_start:   
-date_end:   
-venue: 
-description: 
 
----
+
+#### PRACTICAL COURSE
+
+# Docker and Reproducibility 
+### Turin, Italy 13-24 June 2019
 
 <table border="0">
 <tr>
