@@ -7,7 +7,7 @@
 
 <table style="width:100%">
    <tr>
-     <td><img src="./img/logo_corso.png" alt="yay" height="200" width="700"></td>
+     <td><img src="./img/logoCorso.png" alt="Course Logo" height="200" width="700"></td>
      <tr/>
 </table>
 
