@@ -11,6 +11,10 @@ description:
 <table border="0">
 <tr>
 	<td><a href="https://elixir-iib-training.github.io/website/"><img src="./img/logo_iib.png" height="110" width="230"></a>
+		
+	</td>
+	<td>
+	<a href="https://elixir-iib-training.github.io/website/"><img src="./img/logo_iib.png" height="110" width="230"></a>
 	</td>
 	</tr>
 	<tr height="20"></tr>
