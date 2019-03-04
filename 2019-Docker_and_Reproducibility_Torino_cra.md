@@ -114,9 +114,9 @@ At the end of  this Docker Course the participant will be able to:
 <br>
 
 ### Learning outcomes
-By the end of this course, the participant will be able to:<br>
-- .......one sentence that clearly states the knowledge or the skill that students should be able to demonstrate, to exhibit...
-- ...
+By the end of this course, the participant will be able:
+- Embed  your own analysis pipelines in a Docker containers using docker file paradigm;
+- Use Docker engine to execute containerized applications.
 <br>
 <br>
 
