@@ -105,9 +105,12 @@ The participants will need to have basic shell scripting knowledge and basic exp
 <br>
 
 ### Learning objectives
-(.........Learning objectives describe the goals and intentions of the instructor who teaches the course. They state the purpose and goals of a session or of the course...)
-
-By the end of this course, the participant will learn the core concepts of Docker and how to easily embed bioinformatic pipelines/workflows into a docker container...........................
+At the end of  this Docker Course the participant will be able to:
+- Learn basics of Docker;
+- Assess the advantages of a containerized software development & deployment;
+- Use Docker engine features necessary for running containerized applications;
+- Learn how to use  t Docker File and Docker Hub to create a Docker images;
+- Learn the various networking mechanisms available in Docker.
 <br>
 
 ### Learning outcomes
