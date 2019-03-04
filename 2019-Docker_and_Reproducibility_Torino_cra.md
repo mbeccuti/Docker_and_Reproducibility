@@ -5,6 +5,13 @@
 # Docker and Reproducibility 
 ### Turin, Italy 13-24 June 2019
 
+<table style="width:100%">
+   <tr>
+     <td><img src="./img/logo_corso.png" alt="yay" height="200" width="700"></td>
+     <tr/>
+</table>
+
+
 <table border="0">
 <tr>
 	<td><a href="https://elixir-iib-training.github.io/website/"><img src="./img/logo_iib.png" height="110" width="230"></a>	
